@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1647198042 source:c:\hid\socket_server\wsockserw\main.cpp
+	<stdio.h>
+	<winsock2.h>
+
+1648712649 source:c:\users\vadim\desktop\wsockserw\main.cpp
+	<stdio.h>
+	<winsock2.h>
+
+1651967102 source:d:\sockets\wsockserw\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+

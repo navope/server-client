@@ -1,0 +1,1 @@
+Скопируйте эту библиотеку к себе в папку с CodeBlocks по пути ...CodeBlocks\MinGW\lib
